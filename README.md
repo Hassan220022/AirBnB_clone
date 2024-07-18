@@ -86,5 +86,3 @@
 
 8 directories, 50 files
 ```
-# Authors
-Heindrick Cheung
